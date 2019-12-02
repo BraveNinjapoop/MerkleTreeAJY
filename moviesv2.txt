@@ -1,0 +1,32 @@
+1,Tom Hanks,Forrest Gump,Forrest Gump
+2,Robin Wright,Jenny Curran,Forrest Gump
+3,Gary Sinise,Lieutenant Dan,Forrest Gump
+4,Mykelti Williamson,Bubba Blue,Forrest Gump
+5,Christopher Waltz,Hans Landa,Inglourious Basterds
+6,Brad Pitt,Lt Aldo Raine,Inglourious Basterds
+7,Eli Roth,Sgt Donny Donowitz,Inglourious Basterds
+8,Scott Weinger,Aladdin,Aladdin
+9,Robin Williams,Genie,Aladdin
+10,Linda Larkin,Princess Jasmine,Aladdin
+11,Jonathan Freeman,Jafar,Aladdin
+12,Frank Walker,Abu,Aladdin
+13,Eminem,Jimmy B-Rabbit Smith,8 Mile
+14,Kim Basinger,Stephanie Smith,8 Mile
+15,Mekhi Phifer,David Future Porter,8 Mile
+16,Evan Jones,Cheddar Bob,8 Mile
+17,Ewan McGregor,Obi-Wan Kenobi,Star Wars: Episode II - Attack of the Clones
+18,Natalie Portman,Padme,Star Wars: Episode II - Attack of the Clones
+19,Hayden Christensen,Anakin Skywalker,Star Wars: Episode II - Attack of the Clones
+20,Samuel L. Jackson,Mace Windu,Star Wars: Episode II - Attack of the Clones
+21,Frank Oz,Yoda,Star Wars: Episode II - Attack of the Clones
+22,Temuera Morrison,Jango Fett,Star Wars: Episode II - Attack of the Clones
+23,Jon Heder,Napoleon Dynamite,Napoleon Dynamite
+24,Jon Gries,Uncle Rico,Napoleon Dynamite
+25,Efren Ramirez,Pedro,Napoleon Dynamite
+26,Jack Black,Nacho,Nacho Libre
+27,Hector Jimenez,Esqueleto,Nacho Libre
+28,Moises Arias,Juan Pablo,Nacho Libre
+29,Rami Malek,Freddie Mercury,Bohemian Rhapsody
+30,Lucy Boynton,Mary Austin,Bohemian Rhapsody
+31,Gwilym Lee,Brian May,Bohemian Rhapsody
+32,Ben Hardy,Roger Taylor,Bohemian Rhapsody
